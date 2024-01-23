@@ -44,8 +44,8 @@ static const variant_info_t sweet_global_info = {
     .sku_value = "",
 
     .brand = "Redmi",
-    .device = "sweet",
-    .marketname = "Redmi Note 12 Pro",
+    .device = "sweet_k6a",
+    .marketname = "Redmi Note 12 Pro 4G",
     .model = "2209116AG",
     .build_fingerprint = "Redmi/sweet_global2/sweet:11/RKQ1.210614.002/V14.0.5.0.THGMIXM:user/release-keys",
     .build_description = "sweet_global2-user 13 TKQ1.221114.001 V14.0.5.0.THGMIXM release-keys",
