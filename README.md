@@ -3,7 +3,7 @@ Copyright (C) 2021 - The LineageOS Project
 Device tree for Xiaomi Redmi Note 12 Pro 4G
 ==============
 
-The Xiaomi Redmi Note 12 Pro 4G (codenamed "sweet_k6a) is mid range smartphones from Xiaomi.
+The Xiaomi Redmi Note 12 Pro 4G (codenamed "sweet_k6a") is mid range smartphones from Xiaomi.
 
 ## Device specifications
 
